@@ -1,1 +1,2 @@
+second common file edited in branch A.
 second common file edited in branch B.
