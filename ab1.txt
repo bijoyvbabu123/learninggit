@@ -1,1 +1,1 @@
-common file edited in branch A.
+common file edited in branch B.
